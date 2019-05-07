@@ -1,0 +1,39 @@
+{
+  "name": "uri-util",
+  "main": "uri-util.js",
+  "version": "1.1.0",
+  "homepage": "https://github.com/pasangsherpa/uri-util",
+  "authors": [
+    "Pasang Sherpa <pgyalzen@gmail.com> (https://github.com/pasangsherpa)"
+  ],
+  "description": "URI Util module to work with URIs in browser and server",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "uri",
+    "url",
+    "util",
+    "uri-util"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "1.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.1.0",
+    "commit": "57dba40655783b5e5fe02133d549fb6540efbf06"
+  },
+  "_source": "https://github.com/pasangsherpa/uri-util.git",
+  "_target": "1.1.0",
+  "_originalSource": "uri-util"
+}

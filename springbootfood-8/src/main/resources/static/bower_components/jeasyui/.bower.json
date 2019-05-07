@@ -1,0 +1,28 @@
+{
+  "name": "jeasyui",
+  "version": "1.4.4",
+  "main": "jquery.easyui.min.js",
+  "description": "jQuery EasyUI library",
+  "license": "GPL",
+  "homepage": "http://www.jeasyui.com",
+  "dependencies": {
+    "jquery": "~1.11.3"
+  },
+  "authors": [
+    "EasyUI team <support@jeasyui.com>"
+  ],
+  "keywords": [
+    "easyui",
+    "jeasyui",
+    "jquery-easyui"
+  ],
+  "_release": "1.4.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.4.4",
+    "commit": "90021fd54608ce4828fc6573231ac53f0da81236"
+  },
+  "_source": "https://github.com/meefik/jquery-easyui.git",
+  "_target": "1.4.4",
+  "_originalSource": "jeasyui"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "jeasyui",
+  "version": "1.4.4",
+  "main": "jquery.easyui.min.js",
+  "description": "jQuery EasyUI library",
+  "license": "GPL",
+  "homepage": "http://www.jeasyui.com",
+  "dependencies": {
+    "jquery": "~1.11.3"
+  },
+  "authors": [
+    "EasyUI team <support@jeasyui.com>"
+  ],
+  "keywords": [
+    "easyui",
+    "jeasyui",
+    "jquery-easyui"
+  ]
+}

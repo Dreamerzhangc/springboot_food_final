@@ -1,0 +1,36 @@
+{
+  "name": "uri-util",
+  "version": "1.1.0",
+  "description": "URI Util module to work with URIs in browser and server",
+  "main": "uri-util.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pasangsherpa/uri-util.git"
+  },
+  "keywords": [
+    "uri",
+    "url",
+    "util",
+    "uri-util",
+    "url-util"
+  ],
+  "author": "Pasang Sherpa <pgyalzen@gmail.com> (https://github.com/pasangsherpa)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pasangsherpa/uri-util/issues"
+  },
+  "homepage": "https://github.com/pasangsherpa/uri-util",
+  "devDependencies": {
+    "gulp": "~3.8.7",
+    "gulp-concat": "~2.3.4",
+    "gulp-header": "~1.0.5",
+    "gulp-jshint": "~1.8.4",
+    "gulp-load-plugins": "~0.5.3",
+    "gulp-rename": "~1.2.0",
+    "gulp-uglify": "~0.3.1",
+    "mocha": "*"
+  }
+}
